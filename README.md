@@ -161,12 +161,6 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-Or install manually:
-
-```bash
-pip install rich pygame
-```
-
 ---
 
 ## Running the Application
