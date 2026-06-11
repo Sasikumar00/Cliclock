@@ -131,7 +131,7 @@ Each alarm is stored in `alarms.json`:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<username>/cliclock.git
+git clone https://github.com/sasikumar00/cliclock.git
 cd cliclock
 ```
 
